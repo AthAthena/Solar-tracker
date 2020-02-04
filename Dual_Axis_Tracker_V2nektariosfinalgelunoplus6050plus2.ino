@@ -1,4 +1,4 @@
-//n attempt to calculate the yaw angle right from servo write
+//n attempt to calculate the azimuth sun angle right from servo write and altitude sun angle from mpu6050
 #include <Servo.h> // include Servo library 
 #include <MPU6050_tockn.h>
 #include <Wire.h>
