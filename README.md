@@ -5,7 +5,7 @@
 
 1.arduino uno και mega
 2.   4 ldr 
-3.  2 servo (link:  https://grobotronics.com/servo-micro-2.8kg.cm-metal-gears-waveshare-mg90s.html  ή https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html )
+3.  2 servo (link:  https://grobotronics.com/servo-small-5kg.cm-metal-gears-with-analog-feedback-feetech-fs9225m.html  ΚΑΙ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html )
 4.wires
 5..breadboard (link: https://grobotronics.com/adafruit-perma-proto-quarter-sized-breadboard-pcb-single.html )
 6.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων
