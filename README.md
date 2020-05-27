@@ -1,20 +1,31 @@
 ΕΠΑΛ ΚΙΣΑΜΟΥ-ΓΕΛ ΚΙΣΑΜΟΥ
+ΛΙΓΑ ΛΟΓΙΑ ΓΙΑ ΤΗΝ ΠΕΡΙΠΕΤΕΙΑ ΤΗΣ ΚΑΤΑΣΚΕΥΗΣ ΜΑΣ
+Η αναζήτηση άρχισε με σκοπό τη κατασκευή ενός solar tracker όπως του συναδέλφου https://www.thingiverse.com/thing:53321
+ή https://www.instructables.com/id/Arduino-Solar-Tracker/ .
+ΟΜΩΣ όλες αυτές οι κατασκευές είναι για εσωτερικό χώρο και για λόγους επίδειξης και όχι για ένα πραγματικό solar tracker.
+Και εδώ μπήκαμε στην μεγάλη περιπέτεια κατασκευής ενός πραγματικού solar tracker και ως φυσική συνέπεια (ο καθηγητής μας είναι φυσικός και του αρέσει η αστροφυσική)) και solar path finder- επιστημονικό εργαλείο εύρεσης των γωνίων που διαγράφει ο ΗΛΙΟΣ στην περιοχή μας.
+ΚΑΙ ΑΝΑΣΧΕΔΙΑΣΑΜΕ ΤΑ ΠΑΝΤΑ ΕΞ ΑΡΧΗΣ!!!
 
 Η ηλιακή ενέργεια αποτελεί ανανεώσιμη πηγή ενέργειας με πρόσφορη μέθοδο χρησιμοποίησή της τα φωτοβολταϊκά πάνελ. Όμως ο ήλιος αποδίδει τα μέγιστα μόνο όταν «πέφτει» κάθετα στο πάνελ, έτσι ψάχνουμε τρόπο να ακολουθεί το πάνελ τις ακτίνες του ήλιου. Ένας τρόπος παρακολούθησης του είναι με φωτοευαίσθητες αντιστάσεις οι οποίες παρακολουθούνται από τον μικροελεγκτή arduino και με servo ο μικροελεγκτής προσαρμόζει το πάνελ ώστε οι ακτίνες να πέφτουν κάθετα.
-Υλικά :
 
-1.arduino uno 
-2.   4 ldr 
+Υλικά (τελικός απολογισμός) :
+
+1.arduino uno (https://grobotronics.com/funduino-uno-rev3-arduino-uno-compatible.html) = € 11.90 
+2.   4 ldr (https://grobotronics.com/photo-resistor-ldr-5mm.html)=4*0,20=€ 0,80
 3.  2 servo (link:  https://grobotronics.com/servo-small-5kg.cm-metal-gears-with-analog-feedback-feetech-fs9225m.html
 https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
- )
-4.wires
-5..breadboard (link: https://grobotronics.com/adafruit-perma-proto-quarter-sized-breadboard-pcb-single.html )
+ )=€9.90+€12.20=€21,10
+4.wires (https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html ΚΑΙ https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)=2*€1.80=€ 3,30
+5..breadboard (link: https://grobotronics.com/breadboard-400-tie-point-white-half-size.html ) =€3.20
+6.Bluetooth Module for Arduino - HC05 (https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) =€6.80
 6.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
+ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€43,90
 
-ΤΕΛΙΚΑ
+ 
+
 ΠΕΡΙΓΡΑΦΗ ΠΡΟΒΛΗΜΑΤΟΣ
-Η εποχή μας απαιτεί μεγάλα ενεργειακά αποθέματα , έτσι ένα αποδοτικό φωτοβολταικό πάνελ που ακολουθεί τον ήλιο μας δείχνει τον δρόμο στους κατασκευαστές φωτοβ.συστημάτων.Πόσο μάλλον όταν το πρότζεκτ μας καταγράφει online τις γωνίες που δημιουργεί ο ήλιος στο στερέωμα στο καστέλι κισάμου και έτσι δείχνει ανα ημέρα και ώρα την κατάλληλη γωνία που πρέπει να έχει το φ. πάνελ για μέγιστη απόδοση.
+Η εποχή μας απαιτεί μεγάλα ενεργειακά αποθέματα , έτσι ένα αποδοτικό φωτοβολταικό πάνελ που ακολουθεί τον ήλιο μας δείχνει τον δρόμο στους κατασκευαστές φωτοβ.συστημάτων.Πόσο μάλλον όταν το πρότζεκτ μας καταγράφει τις γωνίες που δημιουργεί ο ήλιος στο στερέωμα στο καστέλι κισάμου και έτσι δείχνει ανα ημέρα και ώρα την κατάλληλη γωνία που πρέπει να έχει το φ. πάνελ για μέγιστη απόδοση.
+
 Το μοίρασμα της γνώσης προτεραιότητα μας!
 Μια επιστημονική εργασία αυτού του είδους εκπαιδεύει τους μελλοντικούς μας επιστήμονες στο διαθεματικό πλαίσιο STEM-ΘΕΤΙΚΕΣ ΕΠΙΣΤΗΜΕΣ-ΡΟΜΠΟΤΙΚΗ.
 ΑΚΟΛΟΥΘΩΝΤΑΣ ΤΟ ΜΟΝΟΠΑΤΙ ΤΟΥ ΗΛΙΟΥ
@@ -33,6 +44,6 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 3)https://www.youtube.com/watch?v=lJVEubm9Ja8
 4)https://www.instructables.com/id/Arduino-Solar-Tracker/
 
-
+LINK ΠΟΥ ΒΟΗΘΗΣΕ ΣΤΗΝ ΒΑΘΜΟΝΟΜΗΣΗ-CALIBRATION SERVO : https://dronebotworkshop.com/analog-feedback-servo-motor/
 
 
