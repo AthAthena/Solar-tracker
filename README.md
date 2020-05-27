@@ -1,4 +1,5 @@
 ΕΠΑΛ ΚΙΣΑΜΟΥ-ΓΕΛ ΚΙΣΑΜΟΥ
+
 ΛΙΓΑ ΛΟΓΙΑ ΓΙΑ ΤΗΝ ΠΕΡΙΠΕΤΕΙΑ ΤΗΣ ΚΑΤΑΣΚΕΥΗΣ ΜΑΣ
 Η αναζήτηση άρχισε με σκοπό τη κατασκευή ενός solar tracker όπως του συναδέλφου https://www.thingiverse.com/thing:53321
 ή https://www.instructables.com/id/Arduino-Solar-Tracker/ .
@@ -45,5 +46,9 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 4)https://www.instructables.com/id/Arduino-Solar-Tracker/
 
 LINK ΠΟΥ ΒΟΗΘΗΣΕ ΣΤΗΝ ΒΑΘΜΟΝΟΜΗΣΗ-CALIBRATION SERVO : https://dronebotworkshop.com/analog-feedback-servo-motor/
+
+ΓΙΑ ΤΟΝ ΔΙΑΓΩΝΙΣΜΟ ΤΗΣ ΕΛΛΑΚ ΠΑΡΑΠΕΜΠΩ ΣΤΟ GITHUB ΤΗΣ ΜΑΘΗΤΡΙΑΣ ΑΘΗΝΑΣ ΑΘΑΝΑΚΗ: https://github.com/Ampirath/Solar-Tracker
+VIDEO LINK:  https://www.youtube.com/watch?v=TfUpVVRkGPY
+ΜΑΘΗΤΕΣ : ΑΘΗΝΑ ΑΘΑΝΑΣΑΚΗ,ΣΤΕΛΛΑ ΑΜΠΟΥΧΑΝΗ ΚΑΙ ΣΠΥΡΟΣ ΕΙΡΗΝΑΚΗΣ-ΓΕΛ ΚΙΣΑΜΟΥ,ΕΠΑΛ ΚΙΣΑΜΟΥ
 
 
