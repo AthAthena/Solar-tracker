@@ -20,7 +20,7 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 6.Bluetooth Module for Arduino - HC05 (https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) =€6.80
 6.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
 ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€43,90
-
+ΣΕ ΕΞΩΤΕΡΙΚΟ ΧΩΡΟ ΠΟΥ ΤΟ ΔΟΚΙΜΑΣΑΜΕ ΔΙΑΠΙΣΤΩΣΑΜΕ ΟΤΙ ΘΑ ΧΡΕΙΑΣΤΕΙ ΚΑΙ ΕΝΑ ΓΥΑΛΙΝΟ ΣΚΕΠΑΣΜΑ
  
 
 ΠΕΡΙΓΡΑΦΗ ΠΡΟΒΛΗΜΑΤΟΣ
