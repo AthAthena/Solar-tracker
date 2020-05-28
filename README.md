@@ -58,7 +58,7 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 
 LINK ΠΟΥ ΒΟΗΘΗΣΕ ΣΤΗΝ ΒΑΘΜΟΝΟΜΗΣΗ-CALIBRATION SERVO : https://dronebotworkshop.com/analog-feedback-servo-motor/
 
-ΓΙΑ ΤΟΝ ΔΙΑΓΩΝΙΣΜΟ ΤΗΣ ΕΛΛΑΚ ΠΑΡΑΠΕΜΠΩ ΣΤΟ GITHUB ΤΗΣ ΜΑΘΗΤΡΙΑΣ ΑΘΗΝΑΣ ΑΘΑΝΑΚΗ: https://github.com/Ampirath/Solar-Tracker
+ΓΙΑ ΤΟΝ ΔΙΑΓΩΝΙΣΜΟ ΤΗΣ ΕΛΛΑΚ ΠΑΡΑΠΕΜΠΩ ΣΤΟ GITHUB ΤΗΣ ΜΑΘΗΤΡΙΑΣ ΑΘΗΝΑΣ ΑΘΑΝΑΣΑΚΗ ΑΠΟ ΤΟΝ ΟΠΟΙΟ ΑΝΤΕΓΡΑΨΑ ΤΑ ΑΡΧΕΙΑ: https://github.com/Ampirath/Solar-Tracker
 VIDEO LINK:  https://www.youtube.com/watch?v=TfUpVVRkGPY
 ΜΑΘΗΤΕΣ : ΑΘΗΝΑ ΑΘΑΝΑΣΑΚΗ,ΣΤΕΛΛΑ ΑΜΠΟΥΧΑΝΗ ΚΑΙ ΣΠΥΡΟΣ ΕΙΡΗΝΑΚΗΣ-ΓΕΛ ΚΙΣΑΜΟΥ,ΕΠΑΛ ΚΙΣΑΜΟΥ
 
