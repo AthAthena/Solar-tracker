@@ -20,8 +20,9 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 4.wires (https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html ΚΑΙ https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)=2*€1.80=€ 3,30
 5..breadboard (link: https://grobotronics.com/breadboard-400-tie-point-white-half-size.html ) =€3.20
 6.Bluetooth Module for Arduino - HC05 (https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) =€6.80
-6.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
-ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€43,90
+7.4 αντιστάσεις 2,2kohm (https://grobotronics.com/resistor-1-2w-carbon-5-2.2kohm.html = €0,4
+8.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
+ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€44,3
 ΣΕ ΕΞΩΤΕΡΙΚΟ ΧΩΡΟ ΠΟΥ ΤΟ ΔΟΚΙΜΑΣΑΜΕ ΔΙΑΠΙΣΤΩΣΑΜΕ ΟΤΙ ΘΑ ΧΡΕΙΑΣΤΕΙ ΚΑΙ ΕΝΑ ΓΥΑΛΙΝΟ ΣΚΕΠΑΣΜΑ
  
 
