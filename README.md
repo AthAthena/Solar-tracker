@@ -13,16 +13,25 @@
 Υλικά (τελικός απολογισμός) :
 
 1.arduino uno (https://grobotronics.com/funduino-uno-rev3-arduino-uno-compatible.html) = € 11.90 
+
 2.   4 ldr (https://grobotronics.com/photo-resistor-ldr-5mm.html)=4*0,20=€ 0,80
+
 3.  2 servo (link:  https://grobotronics.com/servo-small-5kg.cm-metal-gears-with-analog-feedback-feetech-fs9225m.html
 https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
  )=€9.90+€12.20=€21,10
+ 
 4.wires (https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html ΚΑΙ https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)=2*€1.80=€ 3,30
+
 5..breadboard (link: https://grobotronics.com/breadboard-400-tie-point-white-half-size.html ) =€3.20
+
 6.Bluetooth Module for Arduino - HC05 (https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) =€6.80
+
 7.4 αντιστάσεις 2,2kohm (https://grobotronics.com/resistor-1-2w-carbon-5-2.2kohm.html = €0,4
+
 8.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
+
 ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€44,3
+
 ΣΕ ΕΞΩΤΕΡΙΚΟ ΧΩΡΟ ΠΟΥ ΤΟ ΔΟΚΙΜΑΣΑΜΕ ΔΙΑΠΙΣΤΩΣΑΜΕ ΟΤΙ ΘΑ ΧΡΕΙΑΣΤΕΙ ΚΑΙ ΕΝΑ ΓΥΑΛΙΝΟ ΣΚΕΠΑΣΜΑ
  
 
