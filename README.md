@@ -26,11 +26,13 @@ https://grobotronics.com/analog-feedback-micro-servo-plastic-gear.html
 
 6.Bluetooth Module for Arduino - HC05 (https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) =€6.80
 
-7.4 αντιστάσεις 2,2kohm (https://grobotronics.com/resistor-1-2w-carbon-5-2.2kohm.html = €0,4
+7. 4 αντιστάσεις 1kohm (https://grobotronics.com/carbon-1-4w-5-1kohm.html) = €0,04
 
-8.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
+8.servo arm(https://grobotronics.com/servo-arm-double-5cm-horn-spline-25t.html)=€1.90
 
-ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€44,3
+9.Πλαστικά γρανάζια απο 3D εκτυπωτή του εκφέ χανίων (ΤΑ STL ΑΡΧΕΙΑ ΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΩΣ ST1,ST2,..)
+ΕΝΔΕΙΚΤΙΚΟ ΣΥΝΟΛΟ=€49,00
+
 
 ΣΕ ΕΞΩΤΕΡΙΚΟ ΧΩΡΟ ΠΟΥ ΤΟ ΔΟΚΙΜΑΣΑΜΕ ΔΙΑΠΙΣΤΩΣΑΜΕ ΟΤΙ ΘΑ ΧΡΕΙΑΣΤΕΙ ΚΑΙ ΕΝΑ ΓΥΑΛΙΝΟ ΣΚΕΠΑΣΜΑ
  
