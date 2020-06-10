@@ -64,7 +64,7 @@ myservo.write(0);
     
     // Read value from feedback signal
     feedbackValue = analogRead(feedbackPin);
-    angle=map(feedbackValue,80,400,0,180);
+    angle=map(feedbackValueh,84,424,-90,90);
  
     // Write value to serial monitor
     Serial.print("Position = ");
