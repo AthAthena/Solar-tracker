@@ -31,7 +31,7 @@ void setup()
     // Allow time to get there
     delay(2000);
     
-    // Read value from feedback signal
+    // Read value from feedback signal  
     feedbackValueh = analogRead(feedbackPinh);//comment this 2 lines 35 and 36 until you find the true matching between feedbackValue and angle 
     angle=map(feedbackValueh,84,424,-90,90);
     // Write value to serial monitor
